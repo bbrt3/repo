@@ -1,4 +1,9 @@
-this is a test file
+this is aLICE WAS THERE test file
 be careful with editing it
+<<<<<<< HEAD
 changes are gonna bOB TOOe looked at
 please were they
+=======
+changes are gonna be looked at
+or take care
+>>>>>>> 4be9f5dd39d05df835107a0feca841c63052c801
